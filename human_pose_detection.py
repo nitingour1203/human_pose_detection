@@ -1,4 +1,4 @@
-# TechVidvan Human pose estimator
+
 # import necessary packages
 
 import cv2
