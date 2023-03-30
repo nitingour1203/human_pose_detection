@@ -42,6 +42,6 @@ To evaluate the quality of our models against other well-performing publicly ava
 
 5. Multi pose estimation: In multi-pose estimation, Multiple human poses can be predicted in an image at the same time.
 
-# Human Pose Estimation with OpenCV Output:
+# Human Pose detection with OpenCV Output:
 
 ![image](https://user-images.githubusercontent.com/48796009/228970042-859e9c76-01f5-434d-b65d-5be6c19eda36.png)
